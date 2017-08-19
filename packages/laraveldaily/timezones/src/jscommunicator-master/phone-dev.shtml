@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<head>
+<meta charset="utf-8"/>
+<title>Testing</title>
+<link rel="stylesheet" href="style.css" type="text/css"/>
+<link rel="stylesheet" href="style-horizontal.css" type="text/css"/>
+<link rel="stylesheet" href="skin.css" type="text/css"/>
+<script src="jquery.js" type="text/javascript"></script>
+<script src="Arbiter.js" type="text/javascript"></script>
+<script src="jquery.i18n.properties.js" type="text/javascript"></script>
+<!-- For resizeable webcam display -->
+<script src="jquery-ui.js"></script>
+<link rel="stylesheet" href="jquery-ui.css" type="text/css"/>
+<!--<script src="http://jssip.net/download/jssip-devel.js"></script>-->
+<script src="jssip.js" type="text/javascript"></script>
+<script src="init.js" type="text/javascript"></script>
+<script src="config.js" type="text/javascript"></script>
+
+<!-- Each uncompressed source file loaded separately -->
+<script src="i18n.js" type="text/javascript"></script>
+<script src="JSCommManager.js" type="text/javascript"></script>
+<script src="JSCommUI.js" type="text/javascript"></script>
+<script src="webrtc-check.js" type="text/javascript"></script>
+<script src="jssip-helper.js" type="text/javascript"></script>
+<script src="parseuri.js" type="text/javascript"></script>
+
+<!--font-->
+<link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
+</head>
+<body>
+
+<!-- To make this work, you must
+       a) have mod_include enabled in Apache (on Debian: a2enmod include)
+       b) have a Directory element in your server configuration
+          enabling the Includes option, here is an example:
+               <Directory /var/www/jquery/>
+                   Options +Includes
+               </Directory>
+
+  If you can't enable SSI for some reason, you can work around this by
+  simply cutting and pasting the contents of jscommunicator.inc into
+  this HTML file.
+
+  If you just see the reference to include jscommunicator.inc below
+  when viewing the page source in a browser, your SSI configuration
+  is not working:
+-->
+<!--#include file="jscommunicator.inc"-->
+
+</body>
+</html>

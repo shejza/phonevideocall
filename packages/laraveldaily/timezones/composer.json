@@ -1,0 +1,14 @@
+{
+    "name": "laraveldaily/timezones",
+    "description": "Demo-package to show time",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "John Smith",
+            "email": "shejzaberisha@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
