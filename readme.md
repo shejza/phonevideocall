@@ -2,7 +2,7 @@
 
 ## About PhoneVideoCalls plug-in 
 PhoneVideoCalls is a communication tool developed in Laravel framework. It supports voice, video and chat messaging using the SIP protocol over WebSockets. 
-This project is a part of the CoderGals Hackathon, where five groups of girls worked for 24-48 hours in different projects with the help of several mentors. In the end every group had to present their projects. 
+This project is a part of the CoderGals Hackathon Prizren, where five groups of girls worked for 24-48 hours in different projects with the help of several mentors. In the end each group had to present their projects. 
 
 ## Instructions 
 ## License 
