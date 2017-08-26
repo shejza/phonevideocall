@@ -1,0 +1,6 @@
+HOME
+We are ARS Team. We were part of the first Hackathon hosted in Kosovo, specifically in Prizren, named CoderGals. Our task was to create a plug-in for JSCommunicator using Laravel, which is a framework for Php.
+JSCommunicator is a WebRTC communication tool developed in HTML, CSS and JavaScript. It supports voice, video and chat messaging using the SIP protocol over WebSockets.
+JSCommunicator is a free software licensed under the GNU General Public License v2.0. There is no requirement for plugins and no lock-in to a particular service provider.
+Other free software projects such as the DruCall plugin for Drupal choose JSCommunicator to limit exposure to the complexity of SIP.
+One of the challenges we encountered during this task was how to create a plug-in for WebRTC with Laravel, which was never done before. After numerous attempts we managed to figure that out and do it. 
