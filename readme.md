@@ -6,5 +6,5 @@ This project is a part of the CoderGals Prizren Hackathon, where five groups of 
 
 ## Instructions 
 ## License 
-&copy; 2017 Egzona Metbala, Mirjeta Rexha, Shejza Berisha, Zana Perolli
+&copy; 2017 Shejza Berisha
 
